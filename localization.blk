@@ -67,6 +67,7 @@ locTable{
   file:t="%lang/_online.csv"
   file:t="%lang/_legal.csv"
   file:t="%lang/pc_UiMessages.csv"
+  file:t="%lang/custom_bp_text.csv"
 }
 
 locTableFull{
