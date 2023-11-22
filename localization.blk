@@ -2,10 +2,10 @@ ps4override:t="%lang/ps4_specific.csv"
 xboxOneoverride:t="%lang/xboxOne_specific.csv"
 regional:t="%langRegional/special_events.csv"
 regional:t="%langRegional/tournaments.csv"
-regional:t="%langRegional/unlocks_extra.csv"
+regional:t="%/unlocks_extra.csv"
 regional:t="%langRegional/ugc.csv"
 regional:t="%langRegional/regional_trophies.csv"
-regional:t="%langRegional/regional_skins.csv"
+regional:t="%/regional_skins.csv"
 regional:t="%langRegional/regional_decals.csv"
 regional:t="%langRegional/regional_titles.csv"
 english_us:t="English"
@@ -68,6 +68,8 @@ locTable{
   file:t="%lang/_legal.csv"
   file:t="%lang/pc_UiMessages.csv"
   file:t="%lang/custom_bp_text.csv"
+  file:t="%lang/custom_reg_skins.csv"
+  file:t="%lang/custom_reg_unlocks_extra.csv"
 }
 
 locTableFull{
