@@ -8,3 +8,9 @@ Installation:
 5. Extract this localization into the "lang" folder
 6. Either switch languages to a different language and back again or reboot your game
 7. If LLM appears in the top left below the online players count, it worked. If not, check if all steps were followed correctly.
+
+Completely Optional donations:
+
+https://ko-fi.com/leroyonly
+
+Will probably go to funding some literal Coffee or books
