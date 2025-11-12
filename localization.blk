@@ -71,6 +71,7 @@ locTable{
   file:t="%lang/custom_reg_skins.csv"
   file:t="%lang/custom_reg_unlocks_extra.csv"
   file:t="%lang/custom_decals.csv"
+  file:t="%lang/custom_nations.csv"
 }
 
 locTableFull{
