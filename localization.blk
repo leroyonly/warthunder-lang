@@ -67,11 +67,14 @@ locTable{
   file:t="%lang/_online.csv"
   file:t="%lang/_legal.csv"
   file:t="%lang/pc_UiMessages.csv"
+  file:t="%lang/inf.csv"
   file:t="%lang/custom_bp_text.csv"
   file:t="%lang/custom_reg_skins.csv"
   file:t="%lang/custom_reg_unlocks_extra.csv"
   file:t="%lang/custom_decals.csv"
   file:t="%lang/custom_nations.csv"
+  file:t="%lang/custom_inf_weapons.csv"
+  file:t="%lang/custom_inf_modifications.csv"
 }
 
 locTableFull{
