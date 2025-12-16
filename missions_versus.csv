@@ -7137,9 +7137,9 @@ Mission objective:
 
 Mục tiêu nhiệm vụ:
 - Vô hiệu hóa các trận địa tên lửa của đối phương trong khu vực";;
-"missions/_strbomb";"[Deep Strike]";"[Deep Strike]";"[Attacco Profondo]";"[Deep Strike]";"[Ataque Profundo]";"[Глубокий удар]";"[Głębokie uderzenie]";"[Deep Strike]";"[Derin Saldırı]";"【深​入​打​击​】";"[深部打撃]";"[Deep Strike]";"[Глибокий удар]";"[Deep Strike]";"[Deep Strike]";"[Deep Strike]";"[Глубокий удар]";"[Deep Strike]";"[Deep Strike]";"[Deep Strike]";"[Tấn công sâu]";;
-"missions/_strbomb/defensive";"[Infrastructure Air Defense]";"[Infrastructure Air Defense]";"[Difesa Aerea dell'Infrastruttura]";"[Infrastructure Air Defense]";"[Defensa Aérea de Infraestructuras]";"[ПВО объекта]";"[Obrona Infrastruktury]";"[Infrastructure Air Defense]";"[Altyapı Hava Savunması]";"【工​业​设​施​防​空​战​】";"[インフラ\t施設防空]";"[Infrastructure Air Defense]";"[ППО обʼєкта]";"[Infrastructure Air Defense]";"[Infrastructure Air Defense]";"[Infrastructure Air Defense]";"[ПВО объекта]";"[Infrastructure Air Defense]";"[Infrastructure Air Defense]";"[Infrastructure Air Defense]";"[Phòng Không Hạ tầng]";"Infrastructure means factory/plant, bridge, etc.";
-"missions/_strbomb/offensive";"[Deep Strike]";"[Deep Strike]";"[Attacco Profondo]";"[Deep Strike]";"[Ataque Profundo]";"[Глубокий удар]";"[Głębokie uderzenie]";"[Deep Strike]";"[Derin Saldırı]";"【深​入​打​击​】";"[深部打撃]";"[Deep Strike]";"[Глибокий удар]";"[Deep Strike]";"[Deep Strike]";"[Deep Strike]";"[Глубокий удар]";"[Deep Strike]";"[Deep Strike]";"[Deep Strike]";"[Tấn công sâu]";;
+"missions/_strbomb";"[Deep Strike]";"[Deep Strike]";"[Attacco Profondo]";"[Deep Strike]";"[Ataque Profundo]";"[Глубокий удар]";"[Głębokie uderzenie]";"[Hluboký nálet]";"[Derin Saldırı]";"【深​入​打​击​】";"[深部打撃]";"[Ataque Profundo]";"[Глибокий удар]";"[Deep Strike]";"[Deep Strike]";"[Deep Strike]";"[Глубокий удар]";"[Deep Strike]";"【深​入​打​擊​】";"[Deep Strike]";"[Tấn công sâu]";;
+"missions/_strbomb/defensive";"[Infrastructure Air Defense]";"[Infrastructure Air Defense]";"[Difesa Aerea dell'Infrastruttura]";"[Infrastructure Air Defense]";"[Defensa Aérea de Infraestructuras]";"[ПВО объекта]";"[Obrona Infrastruktury]";"[Vzdušná obrana infrastruktury]";"[Altyapı Hava Savunması]";"【工​业​设​施​防​空​战​】";"[インフラ\t施設防空]";"[Defesa Aérea de Infraestruturas]";"[ППО обʼєкта]";"[Infrastructure Air Defense]";"[Infrastructure Air Defense]";"[기반 시설 보호]";"[ПВО объекта]";"[Infrastructure Air Defense]";"【工​業​設​施​防​空​戰​】";"[Infrastructure Air Defense]";"[Phòng Không Hạ tầng]";"Infrastructure means factory/plant, bridge, etc.";
+"missions/_strbomb/offensive";"[Deep Strike]";"[Deep Strike]";"[Attacco Profondo]";"[Deep Strike]";"[Ataque Profundo]";"[Глубокий удар]";"[Głębokie uderzenie]";"[Hluboký nálet]";"[Derin Saldırı]";"【深​入​打​击​】";"[深部打撃]";"[Ataque Profundo]";"[Глибокий удар]";"[Deep Strike]";"[Deep Strike]";"[Deep Strike]";"[Глубокий удар]";"[Deep Strike]";"【深​入​打​擊​】";"[Deep Strike]";"[Tấn công sâu]";;
 "missions/_strbomb/desc/defensive";"Enemy aircraft are planning to strike our infrastructure facility in this area.
 
 Mission objective:
@@ -7161,10 +7161,10 @@ Objetivo de la misión:
 - Не допустите разрушения объекта инфраструктуры, обеспечьте защиту от авиации противника";"Wrogie siły lotnicze planują zaatakować obiekty infrastrukturalne w tej okolicy.
 
 Cel misji:
-- Zapobiec zniszczeniu obiektów infrastrukturalnych, zapewnić obronę przeciwlotniczą";"Enemy aircraft are planning to strike our infrastructure facility in this area.
+- Zapobiec zniszczeniu obiektów infrastrukturalnych, zapewnić obronę przeciwlotniczą";"Nepřátelská letadla plánují útok na naše infrastrukturní zařízení v této oblasti.
 
-Mission objective:
-- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Düşman uçakları bu bölgedeki altyapı tesislerimize saldırı planlıyor.
+Cíl mise:
+- Zabránit zničení infrastrukturního zařízení, zajistit ochranu před nepřátelskými letadly";"Düşman uçakları bu bölgedeki altyapı tesislerimize saldırı planlıyor.
 
 Görev hedefi:
 - Altyapı tesislerinin tahrip edilmesini önlemek, düşman uçaklarına karşı koruma sağlamak";"敌​方​空​中​单​位​正​在​集​结，​试​图​炸​毁​我​方​在​该​地​区​的​重​要​工​业​设​施。
@@ -7173,10 +7173,10 @@ Görev hedefi:
 - 驱​离​来​犯​敌​机，​保​护​至​关​重​要​的​工​业​设​施";"敵機がこの\tエリアの\tインフラ\t施設への\t攻撃を\t計画しています。\t
 
 ミッション\t目標：\t
-- インフラ\t施設の\t破壊を\t阻止し、\t敵機から\t防衛せよ";"Enemy aircraft are planning to strike our infrastructure facility in this area.
+- インフラ\t施設の\t破壊を\t阻止し、\t敵機から\t防衛せよ";"Aeronaves inimigas planeiam atacar as nossas infraestruturas nesta área.
 
-Mission objective:
-- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Авіація противника планує завдати удар по нашому об'єкту інфраструктури в цьому районі.
+Objetivos da missão:
+- Prevenir a destruição das insfraestruturas, providenciar proteção contra aeronaves inimigas";"Авіація противника планує завдати удар по нашому об'єкту інфраструктури в цьому районі.
 
 Завдання місії:
 - Не допустіть руйнування обʼєкта інфраструктури, забезпечте захист від авіації противника";"Enemy aircraft are planning to strike our infrastructure facility in this area.
@@ -7185,19 +7185,19 @@ Mission objective:
 - Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Enemy aircraft are planning to strike our infrastructure facility in this area.
 
 Mission objective:
-- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Enemy aircraft are planning to strike our infrastructure facility in this area.
+- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"적군이 우리의 기반 시설을 노리고 있다.
 
-Mission objective:
-- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Авиация противника планирует нанести удар по нашему объекту инфраструктуры в этом районе.
+임무 목표:
+- 적 항공기들의 공습으로부터 기반 시설을 보호하라";"Авиация противника планирует нанести удар по нашему объекту инфраструктуры в этом районе.
 
 Задача миссии:
 - Не допустите разрушения объекта инфраструктуры, обеспечьте защиту от авиации противника";"Enemy aircraft are planning to strike our infrastructure facility in this area.
 
 Mission objective:
-- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Enemy aircraft are planning to strike our infrastructure facility in this area.
+- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"敵​方​空​中​單​位​正​在​集​結，​試​圖​炸​毀​我​方​在​該​地​區​的​重​要​工​業​設​施。
 
-Mission objective:
-- Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Enemy aircraft are planning to strike our infrastructure facility in this area.
+任​務​目​標：
+- 驅​離​來​犯​敵​機，​保​護​至​關​重​要​的​工​業​設​施";"Enemy aircraft are planning to strike our infrastructure facility in this area.
 
 Mission objective:
 - Prevent the destruction of the infrastructure facility, provide protection from enemy aircraft";"Máy bay địch đang có kế hoạch tấn công cơ sở hạ tầng của chúng ta trong khu vực này.
@@ -7232,11 +7232,11 @@ Objetivo de la misión:
 
 Cele misji:
 - Zlokalizuj obiekty infrastrukturalne
-- Spowodój jak najwięcej zniszczeń";"An important enemy infrastructure facility is located in this area.
+- Spowodój jak najwięcej zniszczeń";"V této oblasti se nachází důležité nepřátelské infrastrukturní zařízení.
 
-Mission objective:
-- Locate the infrastructure facility
-- Cause as much damage to it as possible";"Bu bölgede önemli bir düşman altyapı tesisi bulunmaktadır.
+Cíl mise:
+- Najít infrastrukturní zařízení
+- Způsobit mu co největší škody";"Bu bölgede önemli bir düşman altyapı tesisi bulunmaktadır.
 
 Görev hedefi:
 - Altyapı tesisinin yerini tespit etmek
@@ -7248,11 +7248,11 @@ Görev hedefi:
 
 ミッション\t目標：\t
 - インフラ\t施設の\t位置を\t特定せよ
-- 可能な\t限り\tダメージを\t与えよ";"An important enemy infrastructure facility is located in this area.
+- 施設に\t可能な\t限り\tダメージを\t与えよ";"Uma infraestrutura inimiga importante foi localizada nesta área.
 
-Mission objective:
-- Locate the infrastructure facility
-- Cause as much damage to it as possible";"В цьому районі розташований важливий обʼєкт інфраструктури противника.
+Objetivo da missão:
+- Localizar as infraestruturas
+- Causar o máximo de dano possível";"В цьому районі розташований важливий обʼєкт інфраструктури противника.
 
 Завдання місії:
 - Виявіть обʼєкт інфраструктури
@@ -7264,11 +7264,11 @@ Mission objective:
 
 Mission objective:
 - Locate the infrastructure facility
-- Cause as much damage to it as possible";"An important enemy infrastructure facility is located in this area.
+- Cause as much damage to it as possible";"적의 주요 기반 시설이 이곳에 위치해 있다.
 
-Mission objective:
-- Locate the infrastructure facility
-- Cause as much damage to it as possible";"В этом районе располагается важный объект инфраструктуры противника.
+임무 목표:
+- 기반 시설의 위치를 파악하라
+- 기반 시설에 최대한 많은 피해를 입혀라";"В этом районе располагается важный объект инфраструктуры противника.
 
 Задача миссии:
 - Обнаружьте объект инфраструктуры
@@ -7276,11 +7276,11 @@ Mission objective:
 
 Mission objective:
 - Locate the infrastructure facility
-- Cause as much damage to it as possible";"An important enemy infrastructure facility is located in this area.
+- Cause as much damage to it as possible";"該​地​區​發​現​敵​方​一​處​重​要​工​業​設​施，​徹​底​炸​毀​該​設​施​將​沉​重​打​擊​敵​方​繼​續​戰​爭​的​能​力。
 
-Mission objective:
-- Locate the infrastructure facility
-- Cause as much damage to it as possible";"An important enemy infrastructure facility is located in this area.
+任​務​目​標：
+- 找​到​敵​方​工​業​設​施​所​在​位​置
+- 對​敵​方​工​業​設​施​盡​可​能​造​成​毀​傷";"An important enemy infrastructure facility is located in this area.
 
 Mission objective:
 - Locate the infrastructure facility
@@ -7289,4 +7289,7 @@ Mission objective:
 Mục tiêu nhiệm vụ:
 - Xác định vị trí cơ sở hạ tầng
 - Gây ra càng nhiều thiệt hại cho nó càng tốt";;
+"events/bullet_hell";"Bullet Hell";"Bullet Hell";"Inferno di Proiettili";"Bullet Hell";"Bullet Hell";"Bullet Hell";"Bullet Hell";"Bullet Hell";"Mermi Cehennemi";"枪​弹​炼​狱";"バレットヘル";"Bullet Hell";"Bullet Hell";"Bullet Hell";"Bullet Hell";"진검 승부";"Bullet Hell";"Bullet Hell";"Bullet Hell";"Bullet Hell";"Bão đạn";;
+"missions/_bullet_hell";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Mermi Cehennemi]";"【枪​弹​炼​狱​】";"[バレットヘル]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[진검 승부]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bullet Hell]";"[Bão đạn]";;
+"missions/_bullet_hell/desc";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bullet Hell est un mode de jeu de type match à mort par équipe où s'affrontent deux équipes d'avions à l'aide uniquement de canons. Aucun missile n'est autorisé! Vous pouvez vous réarmer et vous réapprovisionner dans une zone spéciale marquée sur la carte. La première équipe atteignant le score requis remporte la victoire!";"Inferno di proiettili è una modalità deathmatch a squadre con due squadre di aerei che combattono usando solo i cannoni. Non sono permessi missili! Puoi riarmare e rifornire il tuo aereo in zone contrassegnate sulla minimappa. Vince la prima squadra che raggiunge il punteggio richiesto!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bullet Hell es un modo de combate a muerte por equipos que enfrenta a dos equipos de aviones utilizando sólo cañones. ¡No se permiten misiles! Puedes rearmarte y repostar en una zona especial marcada en el minimapa. ¡El primer equipo que alcance la puntuación requerida saldrá victorioso!";"Bullet Hell – это командный deathmatch, в котором две группы самолётов сражаются друг с другом, используя только стрелково-пушечное вооружение. Никаких ракет! Вы можете пополнить боезапас и дозаправиться в специальной зоне, отмеченной на мини-карте. Побеждает команда, которая первой наберёт нужный счёт!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Mermi Cehennemi, iki uçak takımının sadece silahlar kullanarak birbirlerine karşı mücadele ettiği bir takım ölüm maçı tarzı moddur. Füzeler kullanılamaz! Mini haritada işaretlenmiş özel bir bölgede yeniden silahlanabilir ve yakıt ikmali yapabilirsiniz. Gerekli puana ilk ulaşan takım galip gelir!";"【枪​弹​炼​狱​】​采​用​团​队​死​亡​竞​技​模​式，​双​方​战​机​仅​使​用​机​炮​交​战，​导​弹​勿​入！​飞​行​员​们​可​以​在​地​图​中​的​专​门​区​域​补​充​弹​药​和​燃​油。​率​先​获​得​指​定​击​杀​数​的​一​方​将​赢​得​最​终​胜​利！";"バレットヘルは\tチームデスマッチスタイルの\tモードで、\t航空機に\t搭乗した\t2\tチームが\t機関砲のみを\t使用して\t戦います。\tミサイルは\t使用できません！\tミニマップに\t表示された\t特別な\tゾーンで\t再武装と\t燃料補給が\t可能です。\t先に\t必要な\tスコアに\t到達した\tチームが\t勝利します！";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bullet Hell – це командний deathmatch, в якому дві групи літаків бʼються один з одним, використовуючи тільки стрілецько-гарматне озброєння. Ніяких ракет! Ви можете поповнити боєзапас та дозаправитись в спеціальній зоні, відміченій на мінімапі. Перемагає команда, яка першою набере потрібний рахунок!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"진검 승부는 팀 데스매치 형식으로 진행되는 전투로, 전투기의 기총만을 사용하여 진행됩니다. 미사일은 사용할 수 없으며, 미니맵 위에 표시된 특별 지역에서 연료 및 탄약을 보충할 수 있습니다. 정해진 격추 수를 먼저 기록하는 쪽이 승리합니다!";"Bullet Hell – это командный deathmatch, в котором две группы самолётов сражаются друг с другом, используя только стрелково-пушечное вооружение. Никаких ракет! Вы можете пополнить боезапас и дозаправиться в специальной зоне, отмеченной на мини-карте. Побеждает команда, которая первой наберёт нужный счёт!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bullet Hell is a team deathmatch style mode that pits two aircraft teams against each other using guns only. No missiles allowed! You can rearm and refuel in a special zone marked on the mini-map. The first team to reach the required score will emerge victorious!";"Bão đạn là một chế độ theo phong cách deathmatch đồng đội, trong đó hai đội máy bay đấu với nhau chỉ bằng súng. Không cho phép tên lửa! Bạn có thể nạp đạn và tiếp nhiên liệu trong khu vực đặc biệt được đánh dấu trên bản đồ nhỏ. Đội đầu tiên đạt được số điểm yêu cầu sẽ giành chiến thắng!";;
 "MISSION_VERSUS_LANG_KEEP_IT_ALWAYS_FIRST";;;;;;;;;;;;;;;;;;;;;;"";
