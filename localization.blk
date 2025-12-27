@@ -75,6 +75,7 @@ locTable{
   file:t="%lang/custom_nations.csv"
   file:t="%lang/custom_inf_weapons.csv"
   file:t="%lang/custom_inf_modifications.csv"
+  file:t="%lang/custom_inf_rest.csv"
 }
 
 locTableFull{
