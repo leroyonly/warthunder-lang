@@ -63,6 +63,12 @@
 "hotkeys/ID_HUMAN_MOVE_HEADER";"Movement";"Movement";"Movement";"Movement";"Movement";"Движение";"Movement";"Movement";"Movement";"Movement";"Movement";"Movement";"Движение";"Movement";"Movement";"Movement";"Движение";"Movement";"Movement";"Movement";"Movement";;
 "hotkeys/ID_HUMAN_CONTROL_HEADER";"Infantry";"Infantry";"Infantry";"Infantry";"Infantry";"Пехотинец";"Infantry";"Infantry";"Infantry";"Infantry";"Infantry";"Infantry";"Пехотинец";"Infantry";"Infantry";"Infantry";"Пехотинец";"Infantry";"Infantry";"Infantry";"Infantry";;
 
+"hits/area/header";"Your hits";"Your hits";"Your hits";"Your hits";"Your hits";"Ваши попадания";"Your hits";"Your hits";"Your hits";"Your hits";"Your hits";"Your hits";"Ваши попадания";"Your hits";"Your hits";"Your hits";"Ваши попадания";"Your hits";"Your hits";"Your hits";"Your hits";;
+"hits/area/armor";"armor";"armor";"armor";"armor";"armor";"броня";"armor";"armor";"armor";"armor";"armor";"armor";"броня";"armor";"armor";"armor";"броня";"armor";"armor";"armor";"armor";;
+"hits/area/torso";"body";"body";"body";"body";"body";"тело";"body";"body";"body";"body";"body";"body";"тело";"body";"body";"body";"тело";"body";"body";"body";"body";;
+"hits/area/leg";"leg";"leg";"leg";"leg";"leg";"ноги";"leg";"leg";"leg";"leg";"leg";"leg";"ноги";"leg";"leg";"leg";"ноги";"leg";"leg";"leg";"leg";;
+"hits/area/head";"head";"head";"head";"head";"head";"голова";"head";"head";"head";"head";"head";"head";"голова";"head";"head";"head";"голова";"head";"head";"head";"head";;
+"hits/area/hand";"arm";"arm";"arm";"arm";"arm";"руки";"arm";"arm";"arm";"arm";"arm";"arm";"руки";"arm";"arm";"arm";"руки";"arm";"arm";"arm";"arm";;
 
 "exp_reasons/kill_human";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Пехотинец нейтрализован";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Пехотинец нейтрализован";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Пехотинец нейтрализован";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";"Infantry neutralized";;
 "unit_type/human";"Infantry";"Infantry";"Infantry";"Infantry";"Infantry";"Пехота";"Infantry";"Infantry";"Infantry";"Infantry";"Infantry";"Infantry";"Пехота";"Infantry";"Infantry";"Infantry";"Пехота";"Infantry";"Infantry";"Infantry";"Infantry";;
