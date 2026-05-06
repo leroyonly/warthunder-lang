@@ -4391,7 +4391,7 @@
 "avionics_sensor_lws";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";"LWS";;
 "avionics_sensor_mlws";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";"MAW";;
 "avionics_aim_spi";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";"SPI";;
-"avionics_hmd";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";"HMD";;
+"avionics_hmd";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";"HMCS";;
 "avionics_aim_laser_designator";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";"LDR";;
 "avionics_countermeasure_ircm";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";"IRCM";;
 "CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";"CCIP";;
