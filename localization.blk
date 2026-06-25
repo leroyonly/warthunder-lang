@@ -7,7 +7,7 @@ regional:t="%langRegional/ugc.csv"
 regional:t="%langRegional/regional_trophies.csv"
 regional:t="%/regional_skins.csv"
 regional:t="%/regional_decals.csv"
-regional:t="%langRegional/regional_titles.csv"
+regional:t="%/regional_titles.csv"
 english_us:t="English"
 default_audio:t="English"
 default_lang:t="English"
@@ -76,6 +76,7 @@ locTable{
   file:t="%lang/custom_inf_weapons.csv"
   file:t="%lang/custom_inf_modifications.csv"
   file:t="%lang/custom_inf_rest.csv"
+  file:t="%lang/custom_titles.csv"
 }
 
 locTableFull{
