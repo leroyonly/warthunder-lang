@@ -1,6 +1,6 @@
 ps4override:t="%lang/ps4_specific.csv"
 xboxOneoverride:t="%lang/xboxOne_specific.csv"
-regional:t="%langRegional/special_events.csv"
+regional:t="%/special_events.csv"
 regional:t="%langRegional/tournaments.csv"
 regional:t="%/unlocks_extra.csv"
 regional:t="%langRegional/ugc.csv"
